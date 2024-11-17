@@ -1,7 +1,7 @@
 public class App {
     public void addData(String data){
         System.out.println("data: "+data);
-        if(data.equalsIgnoreCase("java")){
+        if(data.equalsIgnoreCase(Constant.DATA_TYPE)){
             System.out.println("Hello");
         }
     }
