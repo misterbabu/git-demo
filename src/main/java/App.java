@@ -8,8 +8,8 @@ public class App {
             System.out.println("Display");
         }else if(false){
             System.out.println("Display else block");
-        }else{
-            System.out.println("Committing from phase3");
+        }else {
+            System.out.println("Committing from phase3 ");
         }
     }
     public static void main(String[] args){
