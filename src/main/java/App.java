@@ -10,6 +10,7 @@ public class App {
             System.out.println("Display else block");
         }else {
             System.out.println("Committing from phase3 ");
+            System.out.println("Committing from phase33 ");
         }
     }
     public static void main(String[] args){
